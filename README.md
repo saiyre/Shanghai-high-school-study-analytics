@@ -4,7 +4,7 @@ A personal data science project analyzing the relationship between
 daily study behaviors and academic performance.
 
 ## Data
-- Daily study records 
+- Daily study and activity records 
 - Formal exam results
 
 ## Methods
@@ -20,12 +20,10 @@ Currently collecting data and building the analysis pipeline.
 Actual personal data is stored locally.
 Only synthetic sample data is published in this repository.
 
-## Something
+## Data Reliability
 
-### Data Reliability
-
-To improve data reliability, I use consistent definitions for each variable and record observations on a daily basis. Whenever possible, objective sources such as device-recorded screen time and official school examination results are used instead of subjective estimates.
-
-The data are recorded prospectively rather than reconstructed from memory.
+To improve data reliability, I use consistent definitions for each variable and record observations on a daily basis.
 
 However, some variables, such as self-recorded study time, may still contain a little measurement error.
+
+More detailed info please read DATA_COLLECTION.md
