@@ -24,6 +24,12 @@ Only formal school examinations are recorded.
 
 Exam scores and grades are taken from official school records whenever available.
 
+### Rankings and Class Sizes
+
+Class and grade rankings, along with their corresponding cohort sizes, are recorded only when officially available.
+
+Unavailable values are left blank. Missing rankings do not prevent other available exam results from being recorded.
+
 ## Data Quality
 
 Data are recorded prospectively rather than reconstructed from memory.
